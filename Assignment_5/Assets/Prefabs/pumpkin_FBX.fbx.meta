@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: 1c8af67009efd9548bc791c4ff98fa8d
+timeCreated: 1571881455
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: CINEMA_4D_Editor
+    100002: head
+    100004: Pumpkin
+    100006: //RootNode
+    100008: roots
+    100010: stem
+    100012: top
+    400000: CINEMA_4D_Editor
+    400002: head
+    400004: Pumpkin
+    400006: //RootNode
+    400008: roots
+    400010: stem
+    400012: top
+    2000000: CINEMA_4D_Editor
+    2100000: pumpkin_head
+    2100002: pumpkin_top
+    2100004: pumpkin_stem
+    2100006: pumpkin_roots
+    2300000: head
+    2300002: roots
+    2300004: stem
+    2300006: top
+    3300000: head
+    3300002: roots
+    3300004: stem
+    3300006: top
+    4300000: head
+    4300002: top
+    4300004: stem
+    4300006: roots
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pumpkin_head
+    second: {fileID: 2100000, guid: ab5190c09899af141a62206e7de165ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pumpkin_roots
+    second: {fileID: 2100000, guid: 359fcc9505519944da4797002dcd3404, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pumpkin_stem
+    second: {fileID: 2100000, guid: a02251d9e43b68841ad4f774f4937b9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pumpkin_top
+    second: {fileID: 2100000, guid: 93632ce476ff8a141a3aa55905a3859b, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pumpkin_Head_diffuse
+    second: {fileID: 2800000, guid: 08a157c33993f7a4aafab9e9ae339fa2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pumpkin_Head_illumination
+    second: {fileID: 2800000, guid: 7972db6a85b2e36459796ce8bd851910, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pumpkin_Head_normal
+    second: {fileID: 2800000, guid: 25919fab88a5c984b843b7bf5f9740d0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pumpkin_Roots_diffuse
+    second: {fileID: 2800000, guid: acbd9e300b2a6ca4b896cead00b8281d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pumpkin_Stem_diffuse
+    second: {fileID: 2800000, guid: 52b124f467326d64eb7f6c0cbe15bd07, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pumpkin_Stem_normal
+    second: {fileID: 2800000, guid: c3eded0221db3204dae12cd42ca0cdb1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pumpkin_Top_diffuse
+    second: {fileID: 2800000, guid: 9ebc0387855a3594ebe717d3d888944e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pumpkin_Top_illumination
+    second: {fileID: 2800000, guid: 7f999f9d4b8f7e1428adbd8c3603a1de, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pumpkin_Top_normal
+    second: {fileID: 2800000, guid: 7c4a7aed9685e6940a9a319e99481a6b, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
